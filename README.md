@@ -79,7 +79,7 @@ The project includes several visualizations:
 
 ## Project Structure
 ```
-premier-league-predictor/
+final-project-data-mining/
 │
 ├── main.py                    # Main script
 ├── matches.csv               # Input data
